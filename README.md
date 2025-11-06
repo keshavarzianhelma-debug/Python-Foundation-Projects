@@ -30,4 +30,4 @@ It demonstrates fundamental programming concepts such as:
 - OOP (classes, objects)  
 - Data structures (lists, dictionaries)  
 - Problem-solving and structuring code  
-![Example Screenshot](Doctor-Clientoutput.jpg)
+![Example Screenshot](Doctor-Client output.jpg)
